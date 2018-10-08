@@ -11,7 +11,7 @@ var count0 = 1;
 var counter1 = 0;
 
 function preload(){
-  earth = loadImage("data/earth-min.jpg");
+  earth = loadImage("earth-min.jpg");
   table = loadTable("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.csv", "header");
 }
 
