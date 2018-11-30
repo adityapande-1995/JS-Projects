@@ -1,1 +1,1 @@
-Holds resources
+Manual mode
