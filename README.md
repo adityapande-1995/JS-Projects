@@ -8,3 +8,4 @@ A collection of simple javascript projects by me.
 3. Calculator : A simple calculator demo
 
 ## Gallery
+![Calculator](https://github.com/adityapande-1995/JS-Projects/blob/master/Calculator/calcgif.gif "Calculator")
