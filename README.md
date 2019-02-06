@@ -10,3 +10,4 @@ A collection of simple javascript projects by me.
 ## Gallery
 ![Calculator](https://github.com/adityapande-1995/JS-Projects/blob/master/Calculator/calcgif.gif "Calculator")
 ![Globe](https://github.com/adityapande-1995/JS-Projects/blob/master/Globe-data-visualize/globe_min.gif "Globe")
+![km](https://github.com/adityapande-1995/JS-Projects/blob/master/k-means/4.gif "kmeans")
