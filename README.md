@@ -7,6 +7,7 @@ A collection of simple javascript projects by me.
 2. Neuro evolution worms : Teaching animated "worms" to walk using a neuro evolutionary algorithm.
 3. Calculator : A simple calculator demo
 4. K-means : K-means classification algo demo.
+5. LinearReg : Linear Regression using Tensorflow
 
 ## Gallery
 ![Calculator](https://github.com/adityapande-1995/JS-Projects/blob/master/Calculator/calcgif.gif "Calculator")
