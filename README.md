@@ -8,9 +8,11 @@ A collection of simple javascript projects by me.
 3. Calculator : A simple calculator demo
 4. K-means : K-means classification algo demo.
 5. LinearReg : Linear Regression using Tensorflow
+6. Travelling Salesman : Simple demo of the TSP using random swapping
 
 ## Gallery
 ![Calculator](https://github.com/adityapande-1995/JS-Projects/blob/master/Calculator/calcgif.gif "Calculator")
 ![Globe](https://github.com/adityapande-1995/JS-Projects/blob/master/Globe-data-visualize/globe_min.gif "Globe")
 ![km](https://github.com/adityapande-1995/JS-Projects/blob/master/k-means/4.gif "kmeans")
 ![LR](https://github.com/adityapande-1995/JS-Projects/blob/master/LinearReg/lr.gif "LR")
+![TravellingSalesman](https://github.com/adityapande-1995/JS-Projects/blob/master/TravellingSalesman/ts.gif "TravellingSalesman")
