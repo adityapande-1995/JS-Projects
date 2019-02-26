@@ -13,6 +13,6 @@ A collection of simple javascript projects by me.
 ## Gallery
 ![Calculator](https://github.com/adityapande-1995/JS-Projects/blob/master/Calculator/calcgif.gif "Calculator")
 ![Globe](https://github.com/adityapande-1995/JS-Projects/blob/master/Globe-data-visualize/globe_min.gif "Globe")
-![km](https://github.com/adityapande-1995/JS-Projects/blob/master/k-means/4.gif "kmeans")
-![LR](https://github.com/adityapande-1995/JS-Projects/blob/master/LinearReg/lr.gif "LR")
-![TravellingSalesman](https://github.com/adityapande-1995/JS-Projects/blob/master/TravellingSalesman/ts.gif "TravellingSalesman")
+![k means](https://github.com/adityapande-1995/JS-Projects/blob/master/k-means/4.gif "k means")
+![Linear Regression](https://github.com/adityapande-1995/JS-Projects/blob/master/LinearReg/lr.gif "Linear Regression")
+![Travelling Salesman](https://github.com/adityapande-1995/JS-Projects/blob/master/TravellingSalesman/ts.gif "Travelling Salesman")
